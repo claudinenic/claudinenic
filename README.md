@@ -1,7 +1,4 @@
-# claudinenic
-
-https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif 
-
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io) 
 <h1 align="center">Hi 👋, I'm Claudine Niyigena</h1>
 <h3 align="center">A passionate frontend developer!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
@@ -35,3 +32,4 @@ https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbll
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=claudinenic&show_icons=true&locale=en" alt="claudinenic" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=claudinenic&" alt="claudinenic" /></p>
+   

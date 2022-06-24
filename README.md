@@ -34,6 +34,6 @@ Learn more about Claudine
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=claudinenic&show_icons=true&locale=en" alt="claudinenic" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=claudinenic&" alt="claudinenic" /></p>
+
    
    

@@ -12,7 +12,9 @@ Learn more about Claudine
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **Reach out to me**
+- Mostly enjoys collaborating on open-source projects.
+
+- 📫 How to reach me **arivyvirtuoso@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 

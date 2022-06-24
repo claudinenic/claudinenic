@@ -5,14 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=claudinenic&label=Profile%20views&color=0e75b6&style=flat" alt="claudinenic" /> </p>
 
-Gists about Claudine
+Learn more about Claudine
 - 🔭 I’m currently working on **Web Dev**
 
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **arivyvirtuoso@gmail.com**
+- 📫 How to reach me **Reach out to me**
 
 - ⚡ Fun fact **I am funny**
 

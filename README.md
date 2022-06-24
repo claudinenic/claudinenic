@@ -6,13 +6,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=claudinenic&label=Profile%20views&color=0e75b6&style=flat" alt="claudinenic" /> </p>
 
 Learn more about Claudine
+
+- Mostly enjoys collaborating on open-source projects
+
 - 🔭 I’m currently working on **Web Dev**
 
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **React**
-
-- Mostly enjoys collaborating on open-source projects.
 
 - 📫 How to reach me **arivyvirtuoso@gmail.com**
 

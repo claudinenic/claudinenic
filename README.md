@@ -1,5 +1,5 @@
-<h2 align="left">Hello There 👋, I'm Claudine Niyigena</h2>
-<h3 align="center">A passionate frontend developer!</h3>
+<h3 align="left">Hello There 👋, I'm Claudine Niyigena</h3>
+<h3 align="right">A passionate frontend developer!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
  
 

@@ -17,7 +17,7 @@ Gist about Claudine
 
 - 💬 Ask me about **React**
 
-- 📫 Reach me **arivyvirtuoso@gmail.com**
+- 📫 Reach me out **arivyvirtuoso@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 

@@ -11,13 +11,13 @@ Gist about Claudine
 
 - Mostly enjoys collaborating on open-source projects
 
-- 🔭 I’m currently working on **Sass**
+- 🔭 I’m currently working on **ML**
 
-- 🌱 I’m currently learning **Python & Julia**
+- 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Python**
 
-- 📫 Reach me out **arivyvirtuoso@gmail.com**
+- 📫 Reach me out **claudine.niyigena@aims.ac.rw**
 
 - ⚡ Fun fact **I am funny**
 
